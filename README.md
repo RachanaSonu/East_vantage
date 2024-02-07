@@ -20,7 +20,7 @@ This is a simple command-line Employee Management System implemented in Python. 
 
 1. **Clone the Repository:**
    - ```bash
-     git clone https://github.com/your-username/employee-management.git
+     git clone https://github.com/RachanaSonu/East_vantage.git
      ```
 
 2. **Run the Program:**
